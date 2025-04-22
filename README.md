@@ -1,5 +1,7 @@
 # Lua Executor - Best FREE Scripts Executor  
 
+![Lua Executor Roblox](https://camo.githubusercontent.com/05fadd47ad621250387698c083f7219e8ef55a77a8ba027a1960460acc5f24e0/68747470733a2f2f75732d656173742d312e74697874652e6e65742f75706c6f6164732f706c6578746f72612e69732d66726f6d2e73706163652f4e656f626c6f785f7567384d4959315a6d722e706e67)  
+
 🎮 **Want a reliable, high-performance, and undetected script executor for Roblox?** Introducing **Lua Executor** — a cutting-edge, **fast, free, and feature-rich script executor** designed to give you the ultimate Roblox scripting experience. Whether you want to **auto farm in Blox Fruits, dominate in Arsenal, or unlock hidden game features**, **Lua Executor** ensures smooth execution without crashes or bans.
 
 Welcome to **free Lua script executor for Roblox**, your go-to tool for running Lua scripts effortlessly in Roblox. With this powerful executor, you can automate actions, enhance gameplay, and unlock exclusive game features—all for free!
